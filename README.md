@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sean-s14
+- 👋 Hi, I’m Sean
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning React.js alongside the Express framework
 - 📫 You can reach me at...
