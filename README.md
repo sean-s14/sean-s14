@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sean-s14
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning React.js alongside the Express framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at...
 
 <!---
 sean-s14/sean-s14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
