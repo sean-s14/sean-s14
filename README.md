@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sean
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning Next.js
-<!-- - 📫 You can reach me at... -->
+- 🌱 I’m currently learning Next.js and GraphQL
+- 📫 You can reach me at sean.stocker15@gmail.com
 
 <!---
 sean-s14/sean-s14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
