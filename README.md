@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning Next.js, GraphQL, Docker, MongoDB and more...
+- 🌱 I’m currently learning Next.js, GraphQL, Docker, Kubernetes, MongoDB and more...
 - 📫 You can reach me at sean.stocker15@gmail.com
 
 <!---
